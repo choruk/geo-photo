@@ -16,3 +16,6 @@
 
 # Pesky .DS_Store
 .DS_Store
+
+# Secrets galore!
+.env
