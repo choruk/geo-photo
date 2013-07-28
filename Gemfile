@@ -9,6 +9,10 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
+group :production do
+  gem 'pg'
+end
+
 gem 'jquery-rails'
 gem 'paperclip', '~>2.6.0'
 gem 'aws-sdk', '~>1.3.4'
