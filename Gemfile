@@ -20,3 +20,4 @@ end
 gem 'jquery-rails'
 gem 'paperclip', '~>2.6.0'
 gem 'aws-sdk', '~>1.3.4'
+gem 'cocaine', '0.3.2'
