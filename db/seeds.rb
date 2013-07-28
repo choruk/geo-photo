@@ -6,4 +6,4 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-Photo.create(:latitude => 102.35, :longitude => 145.35)
+Photo.create(:latitude => 37.7750, :longitude => 122.4183)
